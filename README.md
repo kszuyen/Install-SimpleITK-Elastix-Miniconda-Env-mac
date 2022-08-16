@@ -94,7 +94,8 @@ Traceback (most recent call last):
 AttributeError: module 'SimpleITK' has no attribute 'Elastix'
 ```
 you may need to uninstall the previous SimpleITK to use the newer version.
-As for me, go the directory where it said it installed the New SimpleITK file, and delete the other SimpleITK file.
+Go to the directory where it said it installed the New SimpleITK file, and delete the other SimpleITK file.
+As for me: search for SimpleITK in /Users/ksy/miniconda3/envs/<env name>/lib/python3.7/site-packages
 
 
 
